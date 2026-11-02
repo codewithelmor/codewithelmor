@@ -50,6 +50,7 @@ Projects built with AI assistance, each with its own docs and a narrated demo vi
 | **Spotify to MP3 Downloader** ([demo](https://www.loom.com/share/6c5c436b6d684541be871e3cc557cbcf)) | Turns a Spotify track, album or playlist link into tagged MP3 files with cover art. | Python, Electron |
 | **Audio Album Art Embedder** ([demo](https://www.loom.com/share/1372a2ca701842a1982d7209af099c70)) | Embeds a cover image (JPG or PNG) into the FLAC, MP3, M4A/MP4 and AAC files of a folder, replacing any existing art. Auto-detects the cover, saves MP3s as ID3v2.3 so thumbnails show in Windows Explorer, and runs from the command line or a desktop app. | Python, Electron |
 | **Video to GIF Converter** ([demo](https://www.loom.com/share/0bb86f1d50a640ca9780481a601ad94e)) | Turns a video into a high-quality GIF using FFmpeg's two-pass palette technique, with FPS and width controls, live progress and a preview. FFmpeg is bundled, and it runs from the command line or a desktop app. | Python, FFmpeg, Electron |
+| **Image Tool** ([demo](https://www.loom.com/share/721f4f80b2404040b90f5380f50a2033)) | Resizes, converts and compresses images (JPG, PNG, WEBP, BMP, TIFF, GIF), saving the result next to the original without overwriting. Python and Pillow are bundled, and it runs from the command line or a desktop app. | Python, Pillow, Electron |
 
 ## 💼 Work highlights
 
