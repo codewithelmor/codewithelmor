@@ -48,6 +48,7 @@ Projects built with AI assistance, each with its own docs and a narrated demo vi
 | **Vertical Slice with FastEndpoints** ([demo](https://www.loom.com/share/264cb52a18484491af956ac36a1bd999)) | Feature-per-folder Web API with JWT auth, role-based authorization, API versioning, JSON and XML content negotiation, and Scalar API docs. | .NET 10, FastEndpoints, EF Core, SQL Server, Dapper |
 | **YouTube Downloader** ([demo](https://www.loom.com/share/31d2c586af424e3b90166b59c791a739)) | Turns a YouTube link into tagged MP3, MP4 or captions, from the command line or a desktop app. | Python, yt-dlp, FFmpeg, Electron |
 | **Spotify to MP3 Downloader** ([demo](https://www.loom.com/share/6c5c436b6d684541be871e3cc557cbcf)) | Turns a Spotify track, album or playlist link into tagged MP3 files with cover art. | Python, Electron |
+| **Audio Album Art Embedder** ([demo](https://www.loom.com/share/1372a2ca701842a1982d7209af099c70)) | Embeds a cover image (JPG or PNG) into the FLAC, MP3, M4A/MP4 and AAC files of a folder, replacing any existing art. Auto-detects the cover, saves MP3s as ID3v2.3 so thumbnails show in Windows Explorer, and runs from the command line or a desktop app. | Python, Electron |
 
 ## 💼 Work highlights
 
