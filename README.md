@@ -27,7 +27,7 @@ Kits of agents, skills, hooks and starter templates that make Claude Code follow
 
 | Kit | Covers |
 |---|---|
-| Product Planning | Idea, requirements, UX, architecture, backlog, build, demo video and launch content |
+| Product Planning | Idea, requirements, UX, architecture, backlog, build, spec-driven development with Spec Kit, demo video and launch content |
 | .NET | .NET 10 apps and APIs, with database, Dynamics 365, Azure Function, API testing (Postman and `.http`) and web front-end teams |
 | Angular | Angular apps with signals, zoneless, testing and security review |
 | React | React and Next.js apps with tested starters |
