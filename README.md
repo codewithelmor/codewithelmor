@@ -52,6 +52,12 @@ Projects built with AI assistance, each with its own docs and a narrated demo vi
 | **Video to GIF Converter** ([demo](https://www.loom.com/share/0bb86f1d50a640ca9780481a601ad94e)) | Turns a video into a high-quality GIF using FFmpeg's two-pass palette technique, with FPS and width controls, live progress and a preview. FFmpeg is bundled, and it runs from the command line or a desktop app. | Python, FFmpeg, Electron |
 | **Image Tool** ([demo](https://www.loom.com/share/721f4f80b2404040b90f5380f50a2033)) | Resizes, converts and compresses images (JPG, PNG, WEBP, BMP, TIFF, GIF), saving the result next to the original without overwriting. Python and Pillow are bundled, and it runs from the command line or a desktop app. | Python, Pillow, Electron |
 
+## 🤝 Open source contributions
+
+| Project | What I added | Stack |
+|---|---|---|
+| **[AI Remove Background for OBS Studio](https://github.com/codewithelmor/aisegment_obs_plugin)** (fork of [aisegmentcn/aisegment_obs_plugin](https://github.com/aisegmentcn/aisegment_obs_plugin)) | An OBS video filter that blurs or replaces the background behind a person in real time on the CPU, with no GPU needed. My changes: a **looping video background**, decoded on a worker thread so rendering is never blocked. A **fix for the black output** that custom image and colour backgrounds showed after an OBS restart, with a fallback to the original frame if blending fails. Safer handling of missing or unreadable background images. A **one-command Windows installer** (`install.ps1`) that finds OBS automatically, plus a packaging script that builds a ready-to-extract zip. | C++, OBS Studio, OpenCV, PowerShell |
+
 ## 💼 Work highlights
 
 - **UKG → SAP integrations:** a two-host system (Blazor Server and a scheduled Azure Function) that replaced a manual FileZilla-and-Excel process. It includes a UKG SOAP API client built from scratch.
