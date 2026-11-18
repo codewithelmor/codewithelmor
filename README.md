@@ -29,6 +29,7 @@ Kits of agents, skills, hooks and starter templates that make Claude Code follow
 |---|---|
 | Product Planning | Idea, requirements, UX, architecture, backlog, build, spec-driven development with Spec Kit, demo video and launch content |
 | .NET | .NET 10 apps and APIs, with database, Dynamics 365, Azure Function, API testing (Postman and `.http`) and web front-end teams |
+| Java | Java and Spring Boot apps from Java 8 to 27, with database, Dynamics 365, Azure Function, API testing and web front-end (Thymeleaf, htmx, Vaadin) add-ons |
 | Angular | Angular apps with signals, zoneless, testing and security review |
 | React | React and Next.js apps with tested starters |
 | Vue | Vue 3 and Nuxt apps |
